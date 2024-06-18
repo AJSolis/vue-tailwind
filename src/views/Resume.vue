@@ -4,5 +4,5 @@
 
 <template>
   <headerfile />
-  <h1>Home</h1>
+  <h1>Austin Solis Resume</h1>
 </template>
